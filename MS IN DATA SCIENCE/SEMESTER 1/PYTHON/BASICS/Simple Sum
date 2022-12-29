@@ -1,0 +1,7 @@
+Problem Statement
+Given three integers A, B, and C, your task is to print the sum of these three integers.
+SOLUTION-
+
+A,B,C =input().split()
+print(int(A)+int(B)+int(C))
+ 
