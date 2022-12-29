@@ -1,0 +1,8 @@
+Input
+You don't have to worry about the input, you just have to complete the function waitingTime()
+
+
+solution
+N,S = input().split()
+print(int(N)*int(S))
+# Where The input contains two integers N and X.
