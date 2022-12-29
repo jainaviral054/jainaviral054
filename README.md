@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data analytics job.
 - 🌱 I’m currently learning ms in data science 
 - 📫 you can to reach me ...
--.               📨 E-mail- jainaviral054@gmail.com
-                 📱 Phone No- 9506151345
+-.   📨 E-mail- jainaviral054@gmail.com
+          📱 Phone No- 9506151345
                 
 
 <!---
